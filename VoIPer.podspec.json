@@ -1,1 +1,22 @@
 //VoIPer is gonna get you
+{
+  "name": "VoIPer",
+  "version": "0.1",
+  "summary": "VoIPer is gonna get you.",
+  "description": "VoIPer is gonna get you.",
+  "homepage": "https://github.com/evilBird/VoIPer",
+  "license": "MIT",
+  "authors": [
+    "evilBird"
+  ],
+  "social_media_url": "https://twitter.com/birdSoundMusic",
+  "source": {
+    "git": "https://github.com/evilBird/VoIPer.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": 7.0
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}
